@@ -1,5 +1,8 @@
 # Curated List of Awesome RISC-V resources
 
++ https://github.com/riscv/riscv-software-list  
++ https://github.com/riscv/educational-materials  
+
 ## Research Papers
 + 
 
@@ -36,9 +39,14 @@
 + https://www.aitrends.com/  
 + https://www.hotchips.org/  
 + https://hub.packtpub.com/
++ https://www.design-reuse.com/
 
 ## Blogs
 + http://libre-riscv.org/
++ https://dantalion.nl/en/risc-v-rv32i-assembly-with-ripes-simulator/
+
+## Forums
++ https://riscv.org/forum/  
 
 ## Tutorials . Guides
 + https://riscv.ics.forth.gr/doku.php/developers/getting_started
@@ -65,6 +73,7 @@
 + https://github.com/freechipsproject/chisel3/wiki/Cookbook  
 + https://github.com/IAMAl/How2Start_Chisel3  
 + https://github.com/librecores/riscv-sodor/wiki/Advanced-Examples-of-Using-Chisel  
++ https://github.com/ccelio/chisel-style-guide  
 ### Scala
 + https://docs.scala-lang.org/style/  
 ### ChipYard
@@ -139,10 +148,7 @@ http://hwacha.org/
 Accelerators  
   
 https://ccelio.github.io/riscv-boom-doc/  
-  
-COURSES  
-https://riscv.org/educational-materials/  
-https://github.com/riscv/educational-materials  
+
 RISCV resources  
 
 http://csg.csail.mit.edu/6.375/6_375_2019_www/handouts.html  
@@ -151,21 +157,11 @@ http://pages.cs.wisc.edu/~karu/courses/cs752/fall2016/wiki/index.php?n=Main.Proj
 https://passlab.github.io/CSE564/  
 https://github.com/PeterAaser/tdt4255-chisel-intro  
 Chisel  
-https://github.com/ccelio/chisel-style-guide  
-Chisel  
-  
-  
-  
-  
-FORUM  
-https://riscv.org/forum/  
-  
   
 NEWS / BLOGS  
 https://www.cnx-software.com/2019/08/27/risc-v-bases-and-extensions-explained/  
 https://www.youtube.com/playlist?list=PLn__0BqzWEWPIsUE0TUdsspej2vHV-osY  
 https://wiki.debian.org/RISC-V  
-  
   
   
 SCRIPTS/TOOLS/REPOS  
