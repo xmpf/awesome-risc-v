@@ -1,12 +1,17 @@
 # Curated List of Awesome RISC-V resources
 
-+ https://github.com/riscv/riscv-software-list  
-+ https://github.com/riscv/educational-materials  
+## RISCV.ORG
++ [Software / Tools](https://github.com/riscv/riscv-software-list)  
++ [Educational Material](https://github.com/riscv/educational-materials)  
++ [Implementations](https://riscv.org/risc-v-cores/)  
++ [Unit tests](https://github.com/riscv/riscv-tests)  
 
 ## Research Papers
-+ 
++ [Papers](./papers/)
 
 ## Implementations
++ https://github.com/chipsalliance/rocket-chip  
++ https://github.com/riscv-boom/riscv-boom  
 + https://github.com/risclite/SuperScalar-RISCV-CPU  
 + https://github.com/pulp-platform/ariane  
 + https://github.com/ucb-bar/zscale  
@@ -22,24 +27,35 @@
 + https://github.com/chipsalliance/Cores-SweRV  
 + https://github.com/SpinalHDL/VexRiscv  
 + https://github.com/ucb-bar/riscv-mini  
++ https://gitlab.com/sfu-rcl/Taiga
++ https://github.com/westerndigitalcorporation/swerv_eh1_fpga
+### Extensions
++ [RISC-V V vector extension](https://github.com/riscv/riscv-v-spec)  
 
 ## Tools
-+ https://github.com/chipsalliance/rocket-chip  
-+ https://github.com/riscv-boom/riscv-boom  
-+ https://github.com/nbdd0121/TLBSim  
 + https://github.com/ncppd/rocket-chip-tlb-generator  
-+ https://fires.im/  
 + https://github.com/ucb-bar/riscv-torture  
 + https://github.com/mortbopet/Ripes  
 + https://github.com/mickflemm/yarvt  
 + https://github.com/ucb-bar/chipyard  
 + https://github.com/CSL-KU/firesim-nvdla  
++ https://github.com/westerndigitalcorporation/swerv-ISS  
++ [GAP8 SDK](https://github.com/GreenWaves-Technologies/gap_sdk)  
++ https://github.com/olofk/fusesoc  
+### Simulators
++ https://github.com/nbdd0121/TLBSim  
++ https://fires.im/  
+### IDE
++ https://www.segger.com/downloads/embedded-studio  
 
 ## News
 + https://www.aitrends.com/  
 + https://www.hotchips.org/  
 + https://hub.packtpub.com/
 + https://www.design-reuse.com/
++ https://abopen.com/
++ https://www.cnx-software.com/
++ https://semiengineering.com/  
 
 ## Blogs
 + http://libre-riscv.org/
@@ -52,7 +68,7 @@
 + https://riscv.ics.forth.gr/doku.php/developers/getting_started
 
 ## YouTube Videos
-+ 
++ [RISC-V Workshop Zurich 2019](https://www.youtube.com/playlist?list=PL85jopFZCnbMcS3bdzdd7AdLop5DtEOWB)
 
 ## Podcasts
 
@@ -60,7 +76,8 @@
 + [CS 250: VLSI Systems Design](http://www-inst.eecs.berkeley.edu/~cs250/sp17/)  
 + [Chisel Bootcamp](https://github.com/freechipsproject/chisel-bootcamp)  
 ### Workshops
-+ https://riscv.org/category/workshops/  
++ https://riscv.org/category/workshops/ 
++ [Getting Started with RISC-V: Europe Roadshow Proceedings - September 2019](https://riscv.org/2019/10/getting-started-with-risc-v-europe-roadshow-proceedings/)   
 
 ## Books
 + [Chisel Book - Martin Schoeberl](https://github.com/schoeberl/chisel-book)  
