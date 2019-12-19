@@ -44,9 +44,11 @@
 + https://github.com/olofk/fusesoc  
 ### Simulators
 + https://github.com/nbdd0121/TLBSim  
-+ https://fires.im/  
++ [FireSim](https://fires.im/)  
 ### IDE
 + https://www.segger.com/downloads/embedded-studio  
+### DSE (Design Space Exploration)
++ [BRISC-V](https://ascslab.org/research/briscv/explorer/explorer.html)  
 
 ## News
 + https://www.aitrends.com/  
@@ -56,10 +58,12 @@
 + https://abopen.com/
 + https://www.cnx-software.com/
 + https://semiengineering.com/  
++ [ASCS Lab - Boston University](https://ascslab.org/research.html)  
 
 ## Blogs
 + http://libre-riscv.org/
 + https://dantalion.nl/en/risc-v-rv32i-assembly-with-ripes-simulator/
++ https://www.linkedin.com/pulse/2019-year-risc-v-open-source-silicon-olof-kindgren/  
 
 ## Forums
 + https://riscv.org/forum/  
@@ -75,6 +79,7 @@
 ## Courses
 + [CS 250: VLSI Systems Design](http://www-inst.eecs.berkeley.edu/~cs250/sp17/)  
 + [Chisel Bootcamp](https://github.com/freechipsproject/chisel-bootcamp)  
++ [EC 413 Computer Organization - Boston](https://ascslab.org/courses/ec413/lectures.html)
 ### Workshops
 + https://riscv.org/category/workshops/ 
 + [Getting Started with RISC-V: Europe Roadshow Proceedings - September 2019](https://riscv.org/2019/10/getting-started-with-risc-v-europe-roadshow-proceedings/)   
