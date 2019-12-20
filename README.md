@@ -28,7 +28,9 @@
 + https://github.com/SpinalHDL/VexRiscv  
 + https://github.com/ucb-bar/riscv-mini  
 + https://gitlab.com/sfu-rcl/Taiga
-+ https://github.com/westerndigitalcorporation/swerv_eh1_fpga
++ https://github.com/westerndigitalcorporation/swerv_eh1_fpga  
++ https://github.com/PulseRain/Reindeer 
++ https://github.com/PulseRain/Rattlesnake  
 ### Extensions
 + [RISC-V V vector extension](https://github.com/riscv/riscv-v-spec)  
 
@@ -49,6 +51,8 @@
 + https://www.segger.com/downloads/embedded-studio  
 ### DSE (Design Space Exploration)
 + [BRISC-V](https://ascslab.org/research/briscv/explorer/explorer.html)  
+### Virtual Machine
++ [Virtual Machine for RISC-V development](https://github.com/openhwgroup/riscv_vm/)  
 
 ## News
 + https://www.aitrends.com/  
@@ -57,7 +61,8 @@
 + https://www.design-reuse.com/
 + https://abopen.com/
 + https://www.cnx-software.com/
-+ https://semiengineering.com/  
++ https://semiengineering.com/ 
++ https://www.openhwgroup.org/#news  
 + [ASCS Lab - Boston University](https://ascslab.org/research.html)  
 
 ## Blogs
@@ -70,9 +75,17 @@
 
 ## Tutorials . Guides
 + https://riscv.ics.forth.gr/doku.php/developers/getting_started
++ [Lab 1: hackmd@sysprog](https://hackmd.io/@sysprog/H1TpVYMdB)  
++ [Lab 2: hackmd@sysprog](https://hackmd.io/@sysprog/rJAufgHYS)  
++ [Lab 3: hackmd@sysprog](https://hackmd.io/@sysprog/rJw2A5DqS)  
++ [Assignment 1: hackmd@sysprog](https://hackmd.io/@sysprog/By5OE6fOr)
++ [Assignment 2: hackmd@sysprog](https://hackmd.io/@sysprog/rJdsV7Btr)  
 
-## YouTube Videos
+## YouTube . Twitch
 + [RISC-V Workshop Zurich 2019](https://www.youtube.com/playlist?list=PL85jopFZCnbMcS3bdzdd7AdLop5DtEOWB)
++ [Looking into Hello World on RISC-V by Dennis Clarke (twitch.tv/lastmiles)](https://www.twitch.tv/tsoding/video/498698691)
+## Conferences
++ https://www.osdforum.org/
 
 ## Podcasts
 
@@ -90,6 +103,8 @@
 ## Documentation . Notes
 + https://github.com/cnrv/riscv-notes  
 + https://github.com/Intensivate/learning-journey/wiki/Learning-journey  
+### RISC-V Assembly
++ https://github.com/riscv/riscv-asm-manual
 ### Chisel
 + https://www.chisel-lang.org/api/latest  
 + https://github.com/freechipsproject/chisel3/wiki/Cookbook  
