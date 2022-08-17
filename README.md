@@ -63,7 +63,8 @@
 + https://www.cnx-software.com/
 + https://semiengineering.com/ 
 + https://www.openhwgroup.org/#news  
-+ [ASCS Lab - Boston University](https://ascslab.org/research.html)  
++ [ASCS Lab - Boston University](https://ascslab.org/research.html)
++ https://www.reddit.com/r/RISCV/
 
 ## Blogs
 + http://libre-riscv.org/
